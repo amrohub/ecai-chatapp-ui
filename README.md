@@ -13,8 +13,6 @@ This UI includes:
 - Clean and modern design with Tailwind CSS 🎨  
 - React components for modular development ⚛️  
 - Responsive layouts across devices 📱💻  
-- Avatar system support 🧑‍🎨  
-
 
 
 ## 🛠️ Tech Stack
