@@ -4,8 +4,6 @@
 
 A responsive **React + Tailwind CSS** project built as the frontend for an e-learning assistant system.  
 
-🌐 Live Demo: [[your-demo-link.vercel.app](https://ecai-chatapp-ui.vercel.app)  ](https://ecai-chatapp-ui.vercel.app/chatpage)
-
 
 
 ## ✨ Features
