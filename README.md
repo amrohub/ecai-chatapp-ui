@@ -31,7 +31,7 @@ This UI includes:
 
 ## ▶️ Usage
 
-1. Open the [Live Demo](https://ecai-chatapp-ui.vercel.app/chatpage)  
+1. Open the [Live Demo](https://ecai-chatapp-ui.vercel.app)  
 2. Explore the UI components and features.
 
 
